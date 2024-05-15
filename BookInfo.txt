@@ -1,0 +1,5 @@
+101,50 Algorithms Every Programmer Should Know,Imran Ahmad ,1
+102,Ikigai,Francesc Miralles and Hector Garcia,1
+103,Aptitude,R.S.Agarwal,1
+105,World of Facts,Russell Ash,0
+106,Rich Dad Poor Dad,Robert Kiyosaki,1
